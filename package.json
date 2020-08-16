@@ -1,0 +1,23 @@
+{
+  "name": "currency-cli",
+  "version": "1.0.0",
+  "description": "A CLI utility application to verify acceptable currency.",
+  "main": "validator.js",
+  "bin" : {
+    "validator" : "./validator.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "rubua31@gmail.com"
+  },
+  "author": "Anthony Rubua",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "commander": "^6.0.0",
+    "csv-parse": "^4.12.0"
+  }
+}
