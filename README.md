@@ -15,6 +15,7 @@ This application uses Node v14.4.0 and npm v6.14.7 if you want to match the exac
     
 ## Running the project
 
+    $ npm install -g
     $ validator -v
     or
     $ validator --validate
