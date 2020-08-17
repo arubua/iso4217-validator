@@ -35,7 +35,7 @@ if (program.validate ){
                 skip_empty_lines: true
             });
            
-            //prompt and capture user currency
+            //capture user input
             rl.question(`Enter the ${chalk.cyan('ISO 4217 Code')} of whichever Currency you wish to use: `, function(code) {
                 userCode = code.toUpperCase();
 
