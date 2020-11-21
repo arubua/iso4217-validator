@@ -3,7 +3,7 @@ A node CLI utility application that takes in currency (using ISO 4217 code) as a
 
 *****
 # Requirements
-You will only need Node.js and a node global package, npm, installed in your environement.
+You will only need Node.js and a node global package, npm, installed in your environment.
 
 This application uses Node v14.4.0 and npm v6.14.7 if you want to match the exact node version
 
